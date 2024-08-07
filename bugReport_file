@@ -1,0 +1,16 @@
+# Bug Report
+
+## Summary
+When the "Message" field is left empty in the contact form on the Tendable website, no error message is displayed when click on submit button.
+
+## Steps to Reproduce
+1. Navigate to https://www.tendable.com
+2. Fill in the "Name", "Subject", and "Phone" fields.
+3. Leave the "Message" field empty.
+4. Click the "Submit" button.
+
+## Expected Result
+An error message should be displayed when the field blank.
+
+## Actual Result
+No error message is displayed.
